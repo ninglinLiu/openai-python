@@ -1,2 +1,2 @@
-# ignore all snapshots which are not refered in the source
+# ignore all snapshots which are not referred in the source
 *-new.*
